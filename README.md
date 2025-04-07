@@ -19,5 +19,12 @@ Installation and Usage
 2. Open the index.html file in a web browser to view the app
 3. Start adding and managing your tasks!
 
-#Output
+# Output
+![image](https://github.com/user-attachments/assets/f8d4cf62-4fb8-40fc-9f9b-e3166f8ae92a) <br>
+![image](https://github.com/user-attachments/assets/7c89d430-2cba-41f5-bcb5-edb146894148) <br>
+![image](https://github.com/user-attachments/assets/522c4c0c-2f6d-4e46-ae38-465de5b360bd) <br>
+![image](https://github.com/user-attachments/assets/2b628d93-ee25-43fc-8bf4-119631a4b3c4)
+
+
+
 
