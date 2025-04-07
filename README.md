@@ -15,6 +15,6 @@ Technologies Used
 - JavaScript: For adding interactivity and dynamic effects
 
 Installation and Usage
-1. Clone the repository to your local machine by running the command git clone https://github.com/your-username/your-repo-name.git in the terminal.
+1. Clone the repository to your local machine by running the command git clone [https://github.com/your-username/your-repo-name.git](https://github.com/jagruti978/TO_DO_APP.git) in the terminal.
 2. Open the index.html file in a web browser to view the app
 3. Start adding and managing your tasks!
